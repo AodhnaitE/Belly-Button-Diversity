@@ -4,6 +4,11 @@ In this assignment, you will build an interactive dashboard to explore the [Bell
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+
+# vs code 
+
+Dashboard launches using live server please refer to port settings.
+
 ## Instructions
 
 Complete the following steps:
